@@ -1,6 +1,6 @@
 # Concurrenct_Programming_Practice
  
-This respository contains some common practice about Java Concurrent Programming. Problems listed below:
+This repository contains some common practice about Java Concurrent Programming. Problems listed below:
 
 1) How to use two threads to print even and odd numbers alternately.
 
